@@ -1,0 +1,42 @@
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    font-size: larger;
+    
+}
+
+body{
+    background: #134;
+    
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    margin: 12px;
+    gap: 100px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 30vh;
+    align-items:center;
+    background: #000;
+    color: white;
+    padding: 3vh 3vh;
+    margin: 30vh 70vh;
+    border-radius: 20px;
+}
+
+.btn-hero{
+    display: flex;
+    justify-content: center;
+    margin:-29vh  92vh;
+    padding: 2vh 3vh;
+}
+
+
